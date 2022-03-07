@@ -1,0 +1,6 @@
+papers:
+    - title: "Low-Rank Constraints for Fast Inference in Structured Models"
+      authors: Justin Chiu, Yuntian Deng, and Alexander M. Rush
+      pdf:  "https://proceedings.neurips.cc/paper/2021/file/16c0d78ef6a76b5c247113a4c9514059-Paper.pdf"
+      image:
+      conference: NeurIPS 2021
